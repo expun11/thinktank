@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "ThinkTank",
+    "name": "ThinkTank ASIA ",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
@@ -35,7 +35,9 @@
     "versionFirst": "4.8.10",
     "siteFonts": [],
     "uniqCompNum": 28,
-    "versionPublish": "4.8.10"
+    "versionPublish": "4.8.10",
+    "favicon": "@PROJECT_PATH@/assets/images/download-128x128.png",
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
